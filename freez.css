@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    background-color: #EEEBEC;
+    padding: 40px;
+    padding-left:250px;
+    
+}
+.navbar img{
+    height:45px;
+}
+.in-nav{
+    text-align: center;
+    position: relative;
+    left: 400px;
+    bottom:9px;
+    padding:40px;
+    font-size:20px;
+    color: black;
+}
+.continer img{
+    width:98.9vw;
+    height: 700px;
+}
